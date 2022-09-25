@@ -1,7 +1,7 @@
 // The purpose of the file is to test our Circle class
 // We will need some #includes for our code to work.  These are like import statements.
 
-#include "Circle.h" // Can't create a Circle object unless we know the specification
+#include "circle.h" // Can't create a Circle object unless we know the specification
 #include <iostream> // For cout, endl
 #include <vector> // Demonstrate a dynamic array data structure
 
